@@ -16,7 +16,9 @@
             android:name="it.pippo.wisewordspro.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.RoomDemo">
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.RoomDemo"
+            tools:ignore="DiscouragedApi">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

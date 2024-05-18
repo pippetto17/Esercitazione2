@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WiseWords</string>
+    <string name="app_name">WiseWords Pro</string>
     <string name="message">Clicca per leggere</string>
-    <string name="title">WiseWords</string>
+    <string name="title">WiseWords Pro</string>
     <string name="error">Problemi!</string>
 </resources>
